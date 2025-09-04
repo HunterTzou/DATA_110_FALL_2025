@@ -79,4 +79,45 @@ Here is a table I made using it:
 - [ ] Finish this assignment
 
 
+## **Footnotes**
+
+Sometimes you need to put links for things called *footnotes*. They're just a way for people to go to places that you reference [^1]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[^1]: Wow! You can click a link! Good job!! Here's a cookie! 
+
 
