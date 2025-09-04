@@ -64,11 +64,11 @@ Making tables in Markdown is really annoying. Just use this [website](https://ww
 
 Here is a table I made using it:
 
-|    **Undesirable Task**   | **Dislike Rating (1-10)** |   |   |   |
-|:-------------------------:|:-------------------------:|---|---|---|
-|           Dishes          |             5             |   |   |   |
-|         Organizing        |             7             |   |   |   |
-| Making Tables in Markdown |             10            |   |   |   |
+|    **Undesirable Task**   | **Dislike Rating (1-10)** |
+|:-------------------------:|:-------------------------:|
+|           Dishes          |             5             |
+|         Organizing        |             7             |
+| Making Tables in Markdown |             10            |
 
 ## **Task Lists**
 
@@ -82,42 +82,43 @@ Here is a table I made using it:
 ## **Footnotes**
 
 Sometimes you need to put links for things called *footnotes*. They're just a way for people to go to places that you reference [^1]
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+[^1]: Wow! You can click a link! Good job!! Here's a cookie! <img width="500" height="343" alt="image" src="https://github.com/user-attachments/assets/d0920432-92a4-476e-8084-34ce50ece65b" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^1]: Wow! You can click a link! Good job!! Here's a cookie! 
 
 
