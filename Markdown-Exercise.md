@@ -83,4 +83,16 @@ Here is a table I made using it:
 
 Sometimes you need to put links for things called *footnotes*. They're just a way for people to go to places that you reference [^1]
 
-[^1]: Wow! You can click a link! Good job!! Here's a cookie! <img width="500" height="343" alt="image" src="https://github.com/user-attachments/assets/d0920432-92a4-476e-8084-34ce50ece65b" />
+<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
+[^1]: Wow! You can click a link! Proud of you, bud! Here's a cookie! <img width="500" height="343" alt="image" src="https://github.com/user-attachments/assets/d0920432-92a4-476e-8084-34ce50ece65b" />
