@@ -76,7 +76,7 @@ This project extends that analysis across three years (2021-2023) to examine: **
 
 ### Interactive Visualization 1: Choropleth Map
 
-**[View Interactive Map]()** | **File:** `viz1_depression_map.html`
+**[View Interactive Map](https://huntertzou.github.io/DATA_110_FALL_2025/final_project/viz1_depression_map.html)** | **File:** `viz1_depression_map.html`
 
 The animated map shows depression prevalence by county across 2021-2023. The map visibly **darkens** from 2021→2023, with the most dramatic shift occurring 2021→2022. In 2021, the West Coast and Great Plains display lighter yellow/orange (15-20%), while Appalachia shows dark red (25-30%). By 2023, the West Coast has shifted to orange/red (20-25%), the Great Plains to orange/red (18-22%), and Appalachia remains at maximum dark red (27-30%). 
 
@@ -90,7 +90,7 @@ The geographic "belt" of high depression—stretching from Appalachia through th
 
 ### Interactive Visualization 2: Smoking vs Depression Scatter
 
-**[View Interactive Scatter Plot]()** | **File:** `viz2_smoking_depression_scatter.html`
+**[View Interactive Scatter Plot](https://huntertzou.github.io/DATA_110_FALL_2025/final_project/viz2_smoking_depression_scatter.html)** | **File:** `viz2_smoking_depression_scatter.html`
 
 Each point represents one county, sized by obesity prevalence, colored by depression level. The **weakening correlation** (0.52→0.38) is visually striking across the animation. In 2021, counties cluster tightly along a diagonal trend line; by 2023, substantial scatter emerges with dramatically increased vertical spread. 
 
@@ -110,7 +110,7 @@ Despite the weakening, some relationship remains: no counties have very high smo
 
 ### Static Visualization 3: State Comparison Bar Charts
 
-**![State Comparison]()** | **File:** `viz3_state_comparison.png`
+**![State Comparison](https://huntertzou.github.io/DATA_110_FALL_2025/final_project/viz3_state_comparison.png)** | **File:** `viz3_state_comparison.png`
 
 Side-by-side bar charts show top 15 states by depression for each year. Rankings barely shifted—KY, TN, WV dominate all three years. All bars lengthen slightly 2021→2023, showing universal increases even among "relatively low" states.
 
@@ -120,7 +120,7 @@ Side-by-side bar charts show top 15 states by depression for each year. Rankings
 
 ### Static Visualization 4: Depression Change Diverging Bars
 
-**![Depression Changes by State]()** | **File:** `viz4_depression_change.png`
+**![Depression Changes by State](https://huntertzou.github.io/DATA_110_FALL_2025/final_project/viz4_depression_change.png)** | **File:** `viz4_depression_change.png`
 
 Far more red bars (increases) than green (decreases) visually confirms 79% worsened. Only NJ (-3.01) and NY (-2.29) showed meaningful improvement. SD, DE, WV saw dramatic increases (>4 points).
 
@@ -130,7 +130,7 @@ Far more red bars (increases) than green (decreases) visually confirms 79% worse
 
 ### Static Visualization 5: Correlation Matrix Comparison
 
-**![Correlation Matrix Comparison]()** | **File:** `viz5_correlation_comparison.png`
+**![Correlation Matrix Comparison](https://huntertzou.github.io/DATA_110_FALL_2025/final_project/viz5_correlation_comparison.png)** | **File:** `viz5_correlation_comparison.png`
 
 Side-by-side heatmaps reveal:
 - **All depression correlations weakened** (top row lighter in 2023)
@@ -143,7 +143,7 @@ Side-by-side heatmaps reveal:
 
 ### Static Visualization 6: Distribution of Changes
 
-**![Distribution of Depression Changes]()** | **File:** `viz6_depression_distribution.png`
+**![Distribution of Depression Changes](https://huntertzou.github.io/DATA_110_FALL_2025/final_project/viz6_depression_distribution.png)** | **File:** `viz6_depression_distribution.png`
 
 Heavily right-skewed histogram shows most counties in +1 to +3 range. Mean (+1.36) well right of zero. Left tail (improvements) shorter than right tail (worsening), indicating counties that worsened did so more dramatically.
 
@@ -236,13 +236,13 @@ Centers for Disease Control and Prevention. (2025). *PLACES: County Data 2025 re
 ## Appendix: Code and Reproducibility
 
 **Software:** Python 3.x, pandas, plotly, matplotlib, seaborn  
-**Code:** [View Jupyter Notebook]()  
+**Code:** [View Jupyter Notebook](https://huntertzou.github.io/DATA_110_FALL_2025/final_project/Tzou_Hunter_DATA110_Final_Project.ipynb)  
 **Visualizations Generated:**
-- [viz1_depression_map.html]() (interactive choropleth)
-- [viz2_smoking_depression_scatter.html]() (interactive scatter)
-- [viz3_state_comparison.png]() (static bar charts)
-- [viz4_depression_change.png]() (static diverging bars)
-- [viz5_correlation_comparison.png]() (static heatmaps)
-- [viz6_depression_distribution.png]() (static histogram)
+- [viz1_depression_map.html](https://huntertzou.github.io/DATA_110_FALL_2025/final_project/viz1_depression_map.html) (interactive choropleth)
+- [viz2_smoking_depression_scatter.html](https://huntertzou.github.io/DATA_110_FALL_2025/final_project/viz2_smoking_depression_scatter.html) (interactive scatter)
+- [viz3_state_comparison.png](https://huntertzou.github.io/DATA_110_FALL_2025/final_project/viz3_state_comparison.png) (static bar charts)
+- [viz4_depression_change.png](https://huntertzou.github.io/DATA_110_FALL_2025/final_project/viz4_depression_change.png) (static diverging bars)
+- [viz5_correlation_comparison.png](https://huntertzou.github.io/DATA_110_FALL_2025/final_project/viz5_correlation_comparison.png) (static heatmaps)
+- [viz6_depression_distribution.png](https://huntertzou.github.io/DATA_110_FALL_2025/final_project/viz6_depression_distribution.png) (static histogram)
 
 To reproduce: Install dependencies (`pip install pandas plotly matplotlib seaborn`), update file paths in notebook, run cells sequentially.
